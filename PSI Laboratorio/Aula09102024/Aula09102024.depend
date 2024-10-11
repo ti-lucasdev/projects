@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728489385 source:c:\trabalhos notebook\psi laboratorio\aula09102024\main.c
+	<stdio.h>
+	<stdlib.h>
+
